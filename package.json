@@ -1,0 +1,22 @@
+{
+  "name": "nycda-people-app",
+  "version": "1.0.0",
+  "description": "- Read in a file, named \"people1.json\", which contains a list of people. - Read in another file, named \"people2.json\", which contains another list of people. - After both of these files have been read, write a new file called \"peopleComplete.txt\" which contains a sorted list of all the people from the first two files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfungwm/nycda-people-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfungwm/nycda-people-app/issues"
+  },
+  "homepage": "https://github.com/kfungwm/nycda-people-app#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
